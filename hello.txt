@@ -1,2 +1,4 @@
 Hello All!!
 This is Chandrika Kolluri from CSUDH
+This is my first git repository
+Welcome All!!!
